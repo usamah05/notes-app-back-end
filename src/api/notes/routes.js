@@ -1,31 +1,29 @@
 /* eslint-disable linebreak-style */
-const { addNoteHandler, getALLNotesHandler, getNoteByIdHandler, editNoteByIdHandler, deleteNodeByIdHandler } = require('./handler');
-
-const routes = [
+const routes = (handler) => [
   {
     method: 'POST',
     path: '/notes',
-    handler: addNoteHandler,
+    handler: handler.postNoteHandler,
   },
   {
     method: 'GET',
     path: '/notes',
-    handler: getALLNotesHandler,
+    handler: handler.getNotesHandler,
   },
   {
     method: 'GET',
     path: '/notes/{id}',
-    handler: getNoteByIdHandler,
+    handler: handler.getNoteByIdHandler,
   },
   {
     method: 'PUT',
     path: '/notes/{id}',
-    handler: editNoteByIdHandler,
+    handler: handler.putNoteByIdHandler,
   },
   {
     method: 'DELETE',
     path: '/notes/{id}',
-    handler: deleteNodeByIdHandler,
+    handler: handler.deleteNoteByIdHandler,
   },
 ];
 
