@@ -1,0 +1,59 @@
+[33mcommit 2d7e83d8bef778866258d7e13c9fd3d8e583940d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: usamah05 <usamahabdulwadud534@gmail.com>
+Date:   Fri Aug 1 08:58:29 2025 +0700
+
+    authorization implemented
+
+[33mcommit 87dd67a67b9a75c558b1cb6865d0baa455ff98ef[m
+Author: usamah05 <usamahabdulwadud534@gmail.com>
+Date:   Wed Jul 30 22:14:19 2025 +0700
+
+    authentication implemented
+
+[33mcommit 6b9abc29592a16e5266c258a59c83a967015102e[m
+Author: usamah05 <usamahabdulwadud534@gmail.com>
+Date:   Mon Jul 28 13:35:47 2025 +0700
+
+    user registration implemented
+
+[33mcommit 7d07863036930471c652a1bf0dfb373e555e0488[m
+Author: usamah05 <usamahabdulwadud534@gmail.com>
+Date:   Sat Jul 19 13:01:01 2025 +0700
+
+    postgres database implemented
+
+[33mcommit 7d87557ffbfb8f8f8ea2fc6659bab8285abe774f[m
+Author: usamah05 <usamahabdulwadud534@gmail.com>
+Date:   Mon Jul 14 22:25:13 2025 +0700
+
+    menerapkan onPreResponse
+
+[33mcommit 3bb7c55bf320c99145727634be113e2778d2383e[m
+Author: usamah05 <usamahabdulwadud534@gmail.com>
+Date:   Mon Jul 14 21:23:51 2025 +0700
+
+    data validation implemented
+
+[33mcommit 332be98eaea02af0eb9f963340baf7289eb36b52[m
+Author: usamah05 <usamahabdulwadud534@gmail.com>
+Date:   Sat Jul 12 19:25:17 2025 +0700
+
+    restructure with hapi plugin
+
+[33mcommit 35c6880ff34022bb0bc9062ce6eb3a3bf2303063[m
+Author: usamah05 <usamahabdulwadud534@gmail.com>
+Date:   Mon Jun 9 11:36:04 2025 +0700
+
+    fix bugs host value2
+
+[33mcommit 0937ac28a6f017bc0acad1eff363243d5266c955[m
+Author: usamah05 <usamahabdulwadud534@gmail.com>
+Date:   Mon Jun 9 11:30:47 2025 +0700
+
+    fix bugs host value
+
+[33mcommit 1d24adaafde2ae0be912d7d1198cce0f4540b2cb[m
+Author: usamah05 <usamahabdulwadud534@gmail.com>
+Date:   Sun Jun 8 16:36:47 2025 +0700
+
+    initial commit
